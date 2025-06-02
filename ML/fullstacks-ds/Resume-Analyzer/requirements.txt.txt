@@ -1,9 +1,0 @@
-flask
-pandas
-scikit-learn
-matplotlib
-seaborn
-jupyter
-spacy
-pdfminer.six
-python-docx
